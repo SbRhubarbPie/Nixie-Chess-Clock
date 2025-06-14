@@ -10,8 +10,8 @@ created_at: "2025-06-13"
 
   The smallest type of nixie tubes that I would prefer to use are extremely expensive, so I am trying to decide between vertical tubes that stand up up or flat mounted tubes on the side.
 
-  Example of standing up tubes, I would be using in-16's
+  ###Example of standing up tubes, I would be using in-16's
   ![IMG_1693-1536x1152-2301291633](https://github.com/user-attachments/assets/7819e3cd-dd5f-47fe-acd5-908360434ae7)
 
-  Example of side mounting tubes, I would be using in-12's
+  ###Example of side mounting tubes, I would be using in-12's
   ![DSC_0150-2000-3620169885](https://github.com/user-attachments/assets/81fbc2c0-efeb-44f3-9793-ac4057badcdb)
