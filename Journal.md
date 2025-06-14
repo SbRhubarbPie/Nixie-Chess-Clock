@@ -17,3 +17,7 @@ created_at: "2025-06-13"
   ### Example of side mounting tubes (I would be using in-12's)
   
   ![DSC_0150-2000-3620169885](https://github.com/user-attachments/assets/81fbc2c0-efeb-44f3-9793-ac4057badcdb)
+
+  I am leaning towards using the side mounted in-12's because they are cheaper and would leave space more space on top of the clock for the timer buttons
+
+**Total time spent today: 5hr**
